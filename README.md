@@ -2,7 +2,7 @@
 
 ## User Story
 ```md
-FOR and employee with a busy schedule
+FOR an employee with a busy schedule
 This is a daily work day planner from 9am - 5pm
 To allow for for more effective time management
 ```
